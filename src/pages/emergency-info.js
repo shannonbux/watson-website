@@ -21,29 +21,33 @@ export default ({ data }) => (
     <p>
       If you know he ate something in the list above, you can squirt/pour one
       tablespoon of hydrogen peroxide into his mouth so that he swallows it.
-      This will force him to throw up. Then, call Pet Medical Center at the
-      number below or the Park Animal Hospital if you are calling after hours.
+      This will force him to throw up. Then, call someone from the emergency
+      contacts below to ask what to do next!
     </p>
     <br />
     <h2>Emergency Contacts</h2>
     <br />
-    <h4>My mom | ask me for her phone #</h4>
+    <h4>Me</h4>
     <p>
-      If I'm not available, my mother can answer non-medical questions via text
-      or call!
-    </p>
-    <br />
-    <h4>Pet Medical Center | 525 S. State St. | Orem, UT | (801) 225-5395</h4>
-    <p>
-      Dr. Susan E. Weber is Watson's regular veterinarian. Call her office for
-      questions you have during regular work hours or concerns that are not
-      really an emergency.
+      Call me first! My cell phone is 435-901-1640. I can receive calls and
+      texts there; calls are better for emergencies.{" "}
     </p>
     <br />
     <h4>
-      Park Animal Hospital | 1615 South State | Provo, UT | (801) 374-0622
+      Campus Veterinary Clinic | 1807 Martin Luther King Jr Blvd | Berkeley, CA
+      | (510) 549-1252
     </h4>
-    <p /> You can call this place 24/7 in an emergency.
+    <p>
+      Dr. Hannabess Thomson-Laing is Watson's regular veterinarian. Call her if
+      you can't get ahold of me for questions you have during office hours or
+      concerns that are not as urgent.
+    </p>
+    <br />
+    <h4>
+      PETS Referral Center | 1048 University Ave | Berkeley, CA | (510) 548-6684
+    </h4>
+    <p /> You can call this place 24/7 in an emergency to ask for advice. Watson
+    has been here once, and they will let you know what you need to do.
   </div>
 );
 
