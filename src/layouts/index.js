@@ -24,9 +24,6 @@ export default ({ children, data }) => (
       <Link className={linkStyle} to={`/emergency-info/`}>
         Vet and Emergency Info
       </Link>
-      <Link className={linkStyle} to={`/daily-schedule/`}>
-        Daily schedule
-      </Link>
       <Link className={linkStyle} to={`/tricks-and-commands/`}>
         Tricks and Commands
       </Link>
