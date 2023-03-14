@@ -26,13 +26,11 @@ export default ({ data }) => {
       <div>
         <h3>A Note About Food</h3>
         <p>
-          At both breakfast and dinner time, Watson eats 1/2 C. of{" "}
-          <a href="https://www.hillspet.com/dog-food/sd-adult-advanced-fitness-small-bites-lamb-meal-and-rice-recipe-dog-food-dry">
+          At either breakfast or dinner time, Watson eats 1 C. of{" "}
+          <a href="https://www.chewy.com/hills-prescription-diet-id-digestive/dp/167965">
             this Hill's Science Diet
           </a>{" "}
-          food. Sometimes he won't eat if he's not hungry; in that case, no need
-          to worry or force him. Sometimes he also won't eat unless you put a
-          tablespoon of very hot water into the food to make it soft.
+          food. We just leave it out 1 C. in a bowl at all times and he chooses when he wants to eat.
         </p>
       </div>
     </div>
