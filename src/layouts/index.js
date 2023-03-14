@@ -22,7 +22,7 @@ export default ({ children, data }) => (
     <br />
     <div>
       <Link className={linkStyle} to={`/emergency-info/`}>
-        Emergency Info
+        Vet and Emergency Info
       </Link>
       <Link className={linkStyle} to={`/daily-schedule/`}>
         Daily schedule
